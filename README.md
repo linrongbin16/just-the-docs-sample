@@ -12,6 +12,9 @@ This is a *bare-minimum* template to create a [Jekyll] site that:
 
 More specifically, the created site:
 
+
+https://github.com/linrongbin16/just-the-docs-sample/blob/877c44644b4bdde3d7f7d7a4e45a0e709159a76a/Gemfile#L1-L5
+
 - uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
 - uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
 
