@@ -1,5 +1,9 @@
 # just-the-docs-template
 
+
+https://github.com/linrongbin16/just-the-docs-sample/blob/877c44644b4bdde3d7f7d7a4e45a0e709159a76a/Gemfile#L1-L5
+
+
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
 - uses the [Just the Docs] theme;
